@@ -1,4 +1,3 @@
-# Forking
 # Java Interview Questions
 
 This is a Collection of Computer Science, Java and SQL questions I use for the interviews. 
